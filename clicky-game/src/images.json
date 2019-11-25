@@ -10,52 +10,52 @@
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 3,
         "image": "./images/Cinderella.jpg",
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 4,
         "image": "./images/Elsa.png",
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 5,
         "image": "./images/Jasmine.jpg",
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 6,
         "image": "./images/Merida.jpg",
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 7,
         "image": "./images/Moana.jpg",
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 8,
         "image": "./images/Mulan.jpg",
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 9,
         "image": "./images/Pocahontas.jpg",
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 10,
         "image": "./images/Rapunzel.jpg",
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 11,
         "image": "./images/Snow-white.jpg",
         "clicked": false
     },
     {
-        "id": 1,
+        "id": 12,
         "image": "./images/Tiana.jpg",
         "clicked": false
     }
