@@ -1,0 +1,16 @@
+.pics{
+    float:left;
+    width: 20%;
+    height: 250px;
+    padding: 10px; 
+    overflow:auto;
+    object-fit:cover;
+    object-position:center;
+    
+}
+
+.main{
+    width:1000px;
+    margin-left:7%;
+    
+}

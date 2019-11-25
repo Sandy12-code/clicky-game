@@ -1,0 +1,8 @@
+.wrapper {
+    color:white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    background:rgb(35, 5, 41);
+    font-family: 'Vast Shadow', cursive;
+}

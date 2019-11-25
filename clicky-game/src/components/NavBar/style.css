@@ -1,0 +1,18 @@
+.nav-item {
+    margin: 0px 10px 0px 10px;
+  }
+  
+  .logo {
+    width : 200;
+    height : 100;
+  }
+  
+  .correct {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .incorrect {
+    color:red;
+    font-weight: bold;
+  }
