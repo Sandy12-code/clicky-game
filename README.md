@@ -25,7 +25,7 @@
 * serviceWorker.js (This optional code is used to register a service worker.register() is not called by default. This lets the app load faster on subsequent visits in production, and gives it offline capabilities)
 
 ## Instructions to Run the App
-* Hosted on Heroku here: 
+* Hosted on Heroku here: https://radiant-river-80066.herokuapp.com/
 
 * OR clone the file from github. https://github.com/Sandy12-code/clicky-game
 
